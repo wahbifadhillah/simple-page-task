@@ -12,5 +12,5 @@ Membuat simple page menggunakan React.js dengan layout sebagai berikut:
 
 ## Peraturan
 - Perubahan warna pada A1 dan B1, masing-masing memiliki 3 warna.
-- Lama pengerjaan adalah 30 menit.
+- Lama pengerjaan adalah 40 menit.
 - Diizinkan untuk mencari refrensi di internet.
