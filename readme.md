@@ -1,6 +1,6 @@
 # Task
 Membuat simple page menggunakan React.js dengan layout sebagai berikut:
-[image]
+![layout](https://github.com/wahbifadhillah/simple-page-task/blob/9003a3c4446d156c77e278b4a342207a38fb5703/example.jpeg?raw=true)
 - Terdiri dari 3 kolom
 - Kolom Web page berisi 2 Button, C1 dan C2
 - Kolom Tittle berisi sebuah element bertuliskan B1
